@@ -1,0 +1,19 @@
+[{
+	"name":"hostOne",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"hostTwo",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":1
+},{
+	"name":"hostThree",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+}]

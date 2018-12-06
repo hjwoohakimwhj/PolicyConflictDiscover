@@ -1,0 +1,49 @@
+[{
+	"name":"h1",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":1
+},{
+	"name":"h2",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"h3",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":1
+},{
+	"name":"h4",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"h5",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"h6",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"h7",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":1
+},{
+	"name":"h8",
+	"disk":1000.0,
+	"vCPUs":100,
+	"ram":100.0,
+	"physical":0
+}]

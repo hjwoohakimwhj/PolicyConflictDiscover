@@ -1,0 +1,25 @@
+{
+	"choiceOne":{
+		"route":{
+			"routeOne":{
+				"src":"switchOne-portOne",
+				"dst":"switchTwo-portTwo",
+				"band":1.1
+			}
+		},
+		"paths":{
+			"pathOne":{
+				"switchOne":{
+					"start":"portOne",
+					"end":"portTwo",
+					"dst":"switchTwo-portTwo"
+				},
+				"switchTwo":{
+					"start":"portOne",
+					"end":"portTwo",
+					"dst":"switchTwo-portTwo"
+				}
+			}
+		}
+	}
+}

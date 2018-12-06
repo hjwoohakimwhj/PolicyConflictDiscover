@@ -1,0 +1,32 @@
+{
+	"name":"vnfOne",
+	"order":[{
+				"vnfc":"vnfc1",
+				"band":1.2,
+				"disk":10,
+				"vCPUs":5,
+				"ram":4,
+				"rules":[{
+					"match":"1xxxxx",
+					"action":"accept"
+				},{
+					"match":"0xxxxx",
+					"action":"drop"
+				}],
+				"physical":0
+			},{
+				"vnfc":"vnfc2",
+				"band":1.2,
+				"disk":10,
+				"vCPUs":5,
+				"ram":4,
+				"rules":[{
+					"match":"x1xxxx",
+					"action":"accept"
+				},{
+					"match":"x0xxxx",
+					"action":"drop"
+				}],
+				"physical":0
+	}]
+}

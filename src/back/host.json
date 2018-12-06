@@ -1,0 +1,31 @@
+[{
+	"name":"A",
+	"disk":1000.0,
+	"vCPUs":20,
+	"ram":60.0,
+	"physical":1
+},{
+	"name":"B",
+	"disk":1000.0,
+	"vCPUs":30,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"C",
+	"disk":1000.0,
+	"vCPUs":30,
+	"ram":100.0,
+	"physical":0
+},{
+	"name":"E",
+	"disk":1000.0,
+	"vCPUs":20,
+	"ram":60.0,
+	"physical":1
+},{
+	"name":"D",
+	"disk":1000.0,
+	"vCPUs":30,
+	"ram":100.0,
+	"physical":0
+}]

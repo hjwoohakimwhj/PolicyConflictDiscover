@@ -1,0 +1,20 @@
+{
+	"routeChoiceOne":[{
+		"routeName":"routeOne",
+		"src":"switchOne-portOne",
+		"dst":"switchTwo-portTwo",
+		"band":1.1,
+		"paths":{
+			"pathOne":[{
+					"switch":"switchOne",
+					"start":"portOne",
+					"end":"portTwo"
+				},{
+					"switch":"switchTwo",
+					"start":"portOne",
+					"end":"portTwo"
+				}
+			]
+		}
+	}]
+}

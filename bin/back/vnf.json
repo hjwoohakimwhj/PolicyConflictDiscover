@@ -1,0 +1,25 @@
+[{
+	"hostNum":"A",
+	"disk":"1000G",
+	"vCPUs":20,
+	"ram":"60G",
+	"physical":1
+},{
+	"hostNum":"B",
+	"disk":"1000G",
+	"vCPUs":30,
+	"ram":"100G",
+	"physical":0
+},{
+	"hostNum":"C",
+	"disk":"1000G",
+	"vCPUs":30,
+	"ram":"100G",
+	"physical":0
+},{
+	"hostNum":"D",
+	"disk":"1000G",
+	"vCPUs":30,
+	"ram":"100G",
+	"physical":0
+}]
